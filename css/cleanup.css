@@ -1,1 +1,4 @@
 /* write your override styles here */
+#wall .tag-1, div#wall #tag-2, div#wall div:nth-child(3) #tag-3, #wall .tag-5 {
+  display: none;
+}
